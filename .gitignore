@@ -1,0 +1,23 @@
+# Claves privadas
+keys/
+*.key
+*.pem
+*.private
+
+# Archivos cifrados de prueba
+*.enc
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Entorno virtual
+.venv/
+venv/
+
+# Archivos del sistema
+.DS_Store
